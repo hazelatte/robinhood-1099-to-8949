@@ -24,3 +24,6 @@ python main.py
 ## 📝 Note
 - You can thank ChatGPT for most of the work here.
 - This is for **tax year 2024**. The Form 8949 used is also for 2024.
+
+## 🛑 Disclaimer
+This project is not affiliated with Robinhood or the IRS. It is provided "as is" without any warranties. The generated Form 8949 may require additional review and modification before filing your taxes. Always consult a qualified tax professional to ensure accuracy and compliance with tax laws.

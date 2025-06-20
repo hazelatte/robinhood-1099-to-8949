@@ -2,11 +2,6 @@
 
 This tool automates the process of converting **Robinhood 1099 PDFs** into **IRS Form 8949**. It extracts trade data, categorizes transactions, and fills out the appropriate sections of **Form 8949**, generating a final **merged PDF** with all required tax information.
 
-## 🌟 Why Does This Project Exist?
-- I make lots of short-term trades on Robinhood, so my 1099 is a mess.
-- I don't want to pay TurboTax—I'm poor.
-- I want to reuse the code next year.
-
 ## 🛠️ Usage
 - Install required Python packages:
 ```commandline
